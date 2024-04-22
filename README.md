@@ -7,11 +7,11 @@
 - 🦀 I am also interested in the Rust language
 - ⚡ I'm passionate about backend web development and currently taking my first steps in this direction.
 - 🛠️ My current tech stack includes:
-  - Developing Telegram bots using the aiogram framework.
-  - Initial development of backend structures for websites using FastAPI and Litestar frameworks.
-  - Working with databases PostgreSQL and Redis.
-  - Basic knowledge of message broker RabbitMQ and task manager Celery.
-  - Proficient in Docker for containerizing my applications.
+  - Developing Telegram bots using the **Aiogram** framework.
+  - Initial development of backend structures for websites using **FastAPI** and **Litestar** frameworks.
+  - Working with databases **PostgreSQL** and **Redis**.
+  - Basic knowledge of message broker 🐇 **RabbitMQ** and task manager 🥦 **Celery**.
+  - Proficient in 🐳 **Docker** for containerizing my applications.
 - 🖥️ I code in VSCode & PyCharm apps.
 
 ## Contact
