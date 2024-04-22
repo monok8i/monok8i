@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**monok8i/monok8i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Yuriy**. **I'm a developer from Ukraine, and I work with Python.** 🦋
 
-Here are some ideas to get you started:
+## About Me
+- 🐍 Python is my main programming language.
+- 🦀 I am also interested in the Rust language
+- ⚡ I'm passionate about backend web development and currently taking my first steps in this direction.
+- 🛠️ My current tech stack includes:
+  - Developing Telegram bots using the aiogram framework.
+  - Initial development of backend structures for websites using FastAPI and Litestar frameworks.
+  - Working with databases PostgreSQL and Redis.
+  - Basic knowledge of message broker RabbitMQ and task manager Celery.
+  - Proficient in Docker for containerizing my applications.
+- 🖥️ I code in VSCode & PyCharm apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📫 **[My email](monok8i.dev@seznam.cz)**
+- 🦋 **[GitHub as @monok8i (you are here)](https://github.com/monok8i).**
+
+Feel free to visit me on GitHub to check out my projects and leave your feedback. Thanks for stopping by! 😊
