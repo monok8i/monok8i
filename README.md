@@ -25,6 +25,6 @@
 
 ## My progress at roadmap.sh statistic:
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66335aef96279862ae72dbf6?variant=dark&roadmaps=backend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66335aef96279862ae72dbf6?variant=dark)](https://roadmap.sh)
 
 Feel free to visit me on GitHub to check out my projects and leave your feedback. Thanks for stopping by! 😊
