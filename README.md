@@ -23,7 +23,7 @@
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=monok8i&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Latand" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=monok8i&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
 
-## My Roadmap statistic:
+## My progress at roadmap.sh statistic:
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66335aef96279862ae72dbf6?variant=dark&roadmaps=backend)](https://roadmap.sh)
 
