@@ -17,7 +17,7 @@
 ## My GitHub statistic:
 
 ![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=dark&rank_icon=github)
-![monok8i's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monok8i&layout=compact&theme=dark&height=200)
+
 ## My progress at roadmap.sh:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66335aef96279862ae72dbf6?variant=dark)](https://roadmap.sh)
