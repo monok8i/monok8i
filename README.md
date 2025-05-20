@@ -16,15 +16,11 @@
 
 ## My GitHub statistic:
 
-![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=dark&rank_icon=github)
-
-## My progress at roadmap.sh:
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66335aef96279862ae72dbf6?variant=dark)](https://roadmap.sh)
+![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=catppuccin_mocha&rank_icon=github&layout=compact&border_color=b4befe) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monok8i&size_weight=0.5&count_weight=0.5&show_icons=true&theme=catppuccin_mocha&layout=compact&langs_count=8&border_color=b4befe)
 
 
 ## Contact
-- 📫 **[My email](monok8i.dev@seznam.cz)**
+- 📫 **[My email](yurii.didkivskyi@proton.me)**
 - 🦋 **[GitHub as @monok8i (you are here)](https://github.com/monok8i).**
 
 
