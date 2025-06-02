@@ -10,7 +10,7 @@
 
 
 <h2 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> About Me 🦋 </span></h2>
-<div align="center" style="margin: 0px auto; border: 1px solid #5b7abf; padding: 20px; background-color: #2e3440; border-radius: 10px; max-width: 800px;">
+<div align="center" style="justify-content: center; display: flex; margin: 0px auto; border: 1px solid #5b7abf; padding: 20px; background-color: #2e3440; border-radius: 10px; max-width: 800px;">
   <p align="center">
     <span style="color: #d8dee9; font-family: 'Geist Mono';">
     I am a young developer who is always looking for opportunities for development and is not afraid of difficult tasks. In the world of code, I am like an artist with a brush, but instead of paints - syntax and logic.
