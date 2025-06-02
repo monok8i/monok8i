@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg"/>
+<img src="assets/banner.jpg" style="border-radius: 25px"/>
 
 
 <h1 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono'"> Hi there, I'm Yurii 👋 </span></h1>
