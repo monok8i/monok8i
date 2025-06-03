@@ -1,3 +1,7 @@
+<img src="assets/banner-green1.jpg"/>
+
+---
+
 # 🐍 Yurii | **`Python Enthusiast`**
 
 I'm a young developer from Ukraine who is always looking for opportunities to grow. Design has never been my thing, but in the world of code I'm like an artist with a brush, but instead of paints - syntax and logic.
@@ -88,8 +92,6 @@ I like to understand complex things, dive headlong into code and complex logic, 
 </div>
 
 ---
-
-<img src="assets/banner-green1.jpg"/>
 
 
 > Feel free to visit me on GitHub to check out my projects and leave your feedback. Thanks for stopping by! 😊
