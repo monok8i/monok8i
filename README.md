@@ -37,9 +37,9 @@ I like to understand complex things, dive headlong into code and complex logic, 
 ## 🚀 What I Build With
 
 ### ⇒ Programming Languages:
-<img align="left" alt="Python" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> 
-<img align="left" alt="Rust" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/> 
-<img align="left" alt="C++" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
+<img align="left" alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> 
+<img align="left" alt="Rust" height="50px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/> 
+<img align="left" alt="C++" height="50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
 
 <br/><br/>
 
