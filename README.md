@@ -89,7 +89,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 ---
 
-<img src="assets/banner-green.jpg"/>
+<img src="assets/banner-green1.jpg"/>
 
 
 > Feel free to visit me on GitHub to check out my projects and leave your feedback. Thanks for stopping by! 😊
