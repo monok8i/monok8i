@@ -13,20 +13,18 @@ I like to understand complex things, dive headlong into code and complex logic, 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="padding-right:5px;"/> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="padding-right:10px;"/> 
       </picture> 
-    </a> 
-    <a href="https://www.gitlab.com/monok8i" target="_blank"> 
+    </a> <a href="https://www.gitlab.com/monok8i" target="_blank"> 
       <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32" height="32" style="padding-right:5px;"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32" height="32" style="padding-right:10px;"/> 
       </picture> 
-    </a> 
-    <a href="http://www.instagram.com/monok8i" target="_blank"> 
+    </a> <a href="http://www.instagram.com/monok8i" target="_blank"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="padding-right:5px;" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="padding-right:10px;" /> 
       </picture> 
     </a>
   </p>
@@ -37,47 +35,31 @@ I like to understand complex things, dive headlong into code and complex logic, 
 ## 🚀 What I Build With
 
 ### ⇒ Programming Languages:
-<img align="left" alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> 
-<img align="left" alt="Rust" height="50px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/> 
-<img align="left" alt="C++" height="50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
+<img align="left" alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> <img align="left" alt="Rust" height="50px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/> <img align="left" alt="C++" height="50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
 
 <br/><br/>
 
 ### ⇒ Databases & Caches:
 
-<img align="left" alt="PostgreSQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"/>
-<img align="left" alt="MySQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
-<img align="left" alt="MariaDB" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mariadb.png"/>
-<img align="left" alt="MongoDB" height="50px"" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"/>
-<img align="left" alt="Redis" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"/> 
+<img align="left" alt="PostgreSQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"/> <img align="left" alt="MySQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/> <img align="left" alt="MariaDB" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mariadb.png"/> <img align="left" alt="MongoDB" height="50px"" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"/> <img align="left" alt="Redis" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"/> 
 
 <br/><br/>
 
 ### ⇒ Frameworks & Libraries:
 
-<img align="left" alt="FastAPI" height="50px" style="padding-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/>
-<img align="left" alt="Next.js" height="50px" style="padding-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/>
-<img align="left" alt="Litestar" height="50px" style="padding-right:5px;" src="https://litestar.dev/_static/logo.svg"/>
+<img align="left" alt="FastAPI" height="50px" style="padding-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/> <img align="left" alt="Next.js" height="50px" style="padding-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/> <img align="left" alt="Litestar" height="50px" style="padding-right:5px;" src="https://litestar.dev/_static/logo.svg"/>
 
 <br/><br/>
 
 ### ⇒ Tools & DevOps: 
 
-<img align="left" alt="Git" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/>
-<img align="left" alt="Docker" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"/>
-<img align="left" alt="RabbitMQ" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg"/>
-<img align="left" alt="Nginx" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"/>
-<img align="left" alt="Bash" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/>
-<img align="left" alt="HTML5" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
-<img align="left" alt="CSS3" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/> 
+<img align="left" alt="Git" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/> <img align="left" alt="Docker" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"/> <img align="left" alt="RabbitMQ" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg"/> <img align="left" alt="Nginx" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"/> <img align="left" alt="Bash" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/> <img align="left" alt="HTML5" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/> <img align="left" alt="CSS3" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/> 
 
 <br/><br/>
 
 ### ⇒ Environment & Editors:
 
-<img align="left" alt="Arch Linux" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg"/>
-<img align="left" alt="Windows" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img align="left" alt="VS Code" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Arch Linux" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg"/> <img align="left" alt="Windows" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> <img align="left" alt="VS Code" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br/><br/>
 
 ---
