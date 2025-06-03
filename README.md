@@ -30,68 +30,56 @@
   </p>
 </div>
 
+<hr style="background-color: #5b7abf; width: 100%;"/>
+
 <h2 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> My Tech stack </span></h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Languages</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/></td>
-    </tr>
-    <tr>
-      <th>Frameworks</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/></td>
-      <td><img src="https://camo.githubusercontent.com/adfcddee6c9f91b283088aef85440e45c9ef1da8cfe23de8404ba2e573510863/68747470733a2f2f6c697465737461722e6465762f5f7374617469632f6c6f676f2e737667" alt="Litestar" width="40"/></td>
-      <td><img src="https://docs.aiogram.dev/en/v3.20.0.post0/_static/logo.png" alt="Aiogram" width="40"/></td>
-    </tr>
-    <tr>
-      <th>Databases</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/></td>
-    </tr>
-    <tr>
-      <th>Brokers and task managers</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" alt="Celery" width="40"/></td>
-    </tr>
-    <tr>
-      <th>Containerization</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/></td>
-    </tr>
-    <tr>
-      <th>Other tools</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="filter: invert(100%);"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Archlinux" width="40"/></td>
-    </tr>
-    <tr>
-      <th>Interested for</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></td>
-  </table>
-</div>
+<h3 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> Languages (also interesting for) </span></h3>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
 
-<!-- - <img alt="Python" height="15px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /> **Python is my main programming language.**
-- <img alt="Rust" height="17px" src="https://cdn.worldvectorlogo.com/logos/rust.svg" /> **I am also interested in the Rust and C++ programming languages**
-- <img alt="Backend" height="17px" src="https://cdn.worldvectorlogo.com/logos/grafbase.svg" /> **I'm passionate about backend web development and currently taking steps in this direction.**
-- 🛠️ My current tech stack includes:
-  - Developing Telegram bots using the **Aiogram** framework.
-  - Initial development of backend structures for websites using <img alt="FastAPI" height="17px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" /> **FastAPI** and <img alt="Litestar" height="19px" src="https://litestar.dev/_static/logo.svg" /> **Litestar** frameworks.
-  - Working with databases <img alt="PostgreSQL" height="17px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" /> **PostgreSQL** and <img alt="Redis" height="17px" src="https://cdn.worldvectorlogo.com/logos/redis.svg" /> **Redis**.
-  - Basic knowledge of message broker  <img alt="RabbitMQ" height="17px" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" /> **RabbitMQ** and task manager 🥦 **Celery**.
-  - Proficient in <img alt="Docker" height="18px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" /> **Docker** for containerizing my applications.
-- 🖥️ I code in VSCode & PyCharm apps. -->
+<h3 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> Frameworks </span></h3>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" height="50" alt="Fast API" />
+</a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" height="50" alt="NextJs" />
+</a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+  <img src="https://litestar.dev/_static/logo.svg" height="50" alt="Litestar" />
+</a>
 
-## My GitHub statistic:
+<h3 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> Databases </span></h3>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+
+<h3 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> Other tools and technologies </span></h3>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"  height="50" alt="VS Code" /></a>
+
+<hr style="background-color: #5b7abf; width: 100%;"/>
+
+<h2 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> My Github statistic </span></h2>
 
 ![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=catppuccin_mocha&rank_icon=github&layout=compact&border_color=b4befe) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monok8i&size_weight=0.5&count_weight=0.5&show_icons=true&theme=catppuccin_mocha&layout=compact&langs_count=8&border_color=b4befe)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=monok8i&theme=transparent)](https://git.io/streak-stats)
 
-## Contact
-- 📫 **[My email](yurii.didkivskyi@proton.me)**
-- 🦋 **[GitHub as @monok8i (you are here)](https://github.com/monok8i).**
+<hr style="background-color: #5b7abf; width: 100%;"/>
 
+<h2 align="center"><span style="color: #d8dee9; font-family: 'Geist Mono';"> Connect with me </span></h2>
+
+<p align="left"> <a href="https://www.github.com/monok8i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.gitlab.com/monok8i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/monok8i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 > Feel free to visit me on GitHub to check out my projects and leave your feedback. Thanks for stopping by! 😊
