@@ -33,14 +33,14 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 ## 🚀 What I Build With
 
-### 💻 Programming Languages:
+### ⇒ Programming Languages:
 <img align="left" alt="Python" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/> 
 <img align="left" alt="Rust" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/> 
 <img align="left" alt="C++" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
 
 <br/><br/>
 
-### 📗 Databases & Caches:
+### ⇒ Databases & Caches:
 
 <img align="left" alt="PostgreSQL" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"/>
 <img align="left" alt="MySQL" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
@@ -50,7 +50,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 <br/><br/>
 
-### 🧱 Frameworks & Libraries:
+### ⇒ Frameworks & Libraries:
 
 <img align="left" alt="FastAPI" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/>
 <img align="left" alt="Next.js" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/>
@@ -58,7 +58,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 <br/><br/>
 
-### 🐳 Tools & DevOps: 
+### ⇒ Tools & DevOps: 
 
 <img align="left" alt="Git" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/>
 <img align="left" alt="Docker" height="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"/>
@@ -70,11 +70,11 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 <br/><br/>
 
-### Environment & Editors:
+### ⇒ Environment & Editors:
 
 <img align="left" alt="Arch Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg"/>
-<img align="left" alt="VS Code" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"/>
-
+<img align="left" alt="Windows" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+<img align="left" alt="VS Code" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br/><br/>
 
 ---
