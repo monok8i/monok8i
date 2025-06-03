@@ -9,24 +9,24 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 <div align="left">
   <p>
-    <a href="https://www.github.com/monok8i" target="_blank" style="padding-right:10px;">
+    <a href="https://www.github.com/monok8i" target="_blank">
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="padding-right:10px;"/> 
       </picture> 
     </a> 
-    <a href="https://www.gitlab.com/monok8i" target="_blank" style="padding-right:10px;"> 
+    <a href="https://www.gitlab.com/monok8i" target="_blank"> 
       <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32" height="32" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32" height="32" style="padding-right:10px;"/> 
       </picture> 
     </a> 
-    <a href="http://www.instagram.com/monok8i" target="_blank" style="padding-right:10px;"> 
+    <a href="http://www.instagram.com/monok8i" target="_blank"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="padding-right:10px;" /> 
       </picture> 
     </a>
   </p>
