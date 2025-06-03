@@ -75,7 +75,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
 <img align="left" alt="Arch Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg"/>
 <img align="left" alt="VS Code" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"/>
 
-<hr style="background-color: #5b7abf; width: 100%;"/>
+<br/><br/>
 
 ---
 
