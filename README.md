@@ -7,6 +7,10 @@
 I'm a young developer from Ukraine who is always looking for opportunities to grow. Design has never been my thing, but in the world of code I'm like an artist with a brush, but instead of paints - syntax and logic.
 I like to understand complex things, dive headlong into code and complex logic, experiment with new technologies and create something of my own.
 
+---
+
+## 📨 Contact me
+
 <div align="left">
   <a href="https://www.github.com/monok8i" target="_blank">
     <picture> 
