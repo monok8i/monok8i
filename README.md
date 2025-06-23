@@ -51,7 +51,6 @@ I like to understand complex things, dive headlong into code and complex logic, 
   <img alt="PostgreSQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"/>
   <img alt="MySQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
   <img alt="MariaDB" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mariadb.png"/>
-  <img alt="MongoDB" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"/>
   <img alt="Redis" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"/> 
 </div>
 
@@ -59,7 +58,6 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 <div align="left">
   <img alt="FastAPI" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/>
-  <img alt="Next.js" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"/>
   <img alt="Litestar" height="50px" src="https://litestar.dev/_static/logo.svg"/>
 </div>
 
