@@ -85,7 +85,8 @@ I like to understand complex things, dive headlong into code and complex logic, 
 
 ## 🔥 GitHub Streaks & Highlights
   
-![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=transparent&rank_icon=github&layout=compact&border_color=b4befe)[![GitHub Streak](https://streak-stats.demolab.com?user=monok8i&theme=transparent)](https://git.io/streak-stats)
+![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=transparent&rank_icon=github&layout=compact&border_color=b4befe)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=monok8i&theme=transparent)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monok8i&layout=compact&theme=transparent&size_weight=0&count_weight=1)](https://github.com/monok8i/github-readme-stats) -->
 
