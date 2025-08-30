@@ -59,6 +59,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
 <div align="left">
   <img alt="FastAPI" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/>
   <img alt="Litestar" height="50px" src="https://litestar.dev/_static/logo.svg"/>
+  <img alt="Discord.py" height="50px" src="https://cdn.discordapp.com/emojis/596577034537402378.webp?size=128"/>
 </div>
 
 ### ⇒ Tools & DevOps: 
