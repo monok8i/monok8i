@@ -1,6 +1,8 @@
+<!--
 <img src="assets/banner-green1.jpg"/>
 
 ---
+-->
 
 # 🐍 Yurii
 
