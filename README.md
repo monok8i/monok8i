@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="24">
 <tr>
@@ -18,15 +18,15 @@ Backend Developer focused on architecture, systems design and building scalable 
 I’m an 18-year-old developer from Ukraine currently living in Europe.
 I don’t just write code — I build systems.
 
-I enjoy working with complex logic, clean architecture, distributed systems and backend-heavy products.
-Right now I'm focused on growing as a backend engineer and building SaaS-level projects.
-
+I enjoy working with complex logic, distributed systems and backend-heavy products.
+Right now I'm focused on growing as a backend engineer.
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-## Stack I Use
+<h2 align="center"> Stack I Use </h2>
+
 ### ⇒ Programming Languages:
 <div align="left">
   <img alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/>
@@ -84,7 +84,7 @@ Right now I'm focused on growing as a backend engineer and building SaaS-level p
 <tr>
 <td colspan="2" valign="top">
 
-## Personal Skills
+<h2 align="center"> Personal Skills </h2>
 
 - Analytical mindset
 - Strong focus on backend systems
