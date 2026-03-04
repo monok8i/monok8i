@@ -1,79 +1,74 @@
-<!--
-<img src="assets/banner-green1.jpg"/>
+<div align="center">
 
----
--->
+<table width="100%" border="1" cellspacing="0" cellpadding="24">
+<tr>
+<td width="35%" align="center">
 
-# 🐍 Yurii
+<img src="assets/avatar.png" width="220" style="border-radius:50%;" />
 
-I'm a young developer from Ukraine who is always looking for opportunities to grow. Design has never been my thing, but in the world of code I'm like an artist with a brush, but instead of paints - syntax and logic.
-I like to understand complex things, dive headlong into code and complex logic, experiment with new technologies and create something of my own.
+</td>
+<td width="65%" valign="middle">
 
----
+## About Me
 
-## 📨 Contact me
+### Yurii
 
-<div align="left">
-  <a href="https://www.github.com/monok8i" target="_blank">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32px"/> 
-    </picture> 
-  </a> 
-  <a href="https://www.gitlab.com/monok8i" target="_blank"> 
-    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="32px"/> 
-    </picture> 
-  </a> 
-  <a href="http://www.instagram.com/monok8i" target="_blank"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32px" style="padding-right:10px;" /> 
-    </picture> 
-  </a>
-</div>
+Backend Developer focused on architecture, systems design and building scalable products.
 
----
+I’m an 18-year-old developer from Ukraine currently living in Europe.
+I don’t just write code — I build systems.
 
-## 🚀 What I Build With
+I enjoy working with complex logic, clean architecture, distributed systems and backend-heavy products.
+Right now I'm focused on growing as a backend engineer and building SaaS-level projects.
 
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+## Stack I Use
 ### ⇒ Programming Languages:
 <div align="left">
   <img alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/>
   <img alt="Rust" height="50px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/>
-  <img alt="C++" height="50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
+</div>
+
+### ⇒ Backend Frameworks:
+
+<div align="left">
+  <img alt="FastAPI" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/>
+  <img alt="Litestar" height="50px" src="https://litestar.dev/_static/logo.svg"/>
+</div>
+
+### ⇒ Frontend:
+
+<div align="left">
+  <img alt="Vue" height="50px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"/>
+  <img alt="HTML5" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
+  <img alt="CSS3" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/>
 </div>
 
 ### ⇒ Databases & Caches:
 
 <div align="left">
   <img alt="PostgreSQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"/>
-  <img alt="MySQL" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
-  <img alt="MariaDB" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/mariadb.png"/>
-  <img alt="Redis" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"/> 
+  <img alt="Redis" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"/>
 </div>
 
-### ⇒ Frameworks & Libraries:
+### ⇒ Messaging & Integrations:
 
 <div align="left">
-  <img alt="FastAPI" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"/>
-  <img alt="Litestar" height="50px" src="https://litestar.dev/_static/logo.svg"/>
+  <img alt="RabbitMQ" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg"/>
   <img alt="Discord.py" height="50px" src="https://cdn.discordapp.com/emojis/596577034537402378.webp?size=128"/>
 </div>
 
-### ⇒ Tools & DevOps: 
+### ⇒ Tools & DevOps:
 
 <div align="left">
   <img alt="Git" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"/>
   <img alt="Docker" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"/>
-  <img alt="RabbitMQ" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg"/>
   <img alt="Nginx" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"/>
   <img alt="Bash" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/>
-  <img alt="HTML5" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
-  <img alt="CSS3" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/> 
 </div>
 
 ### ⇒ Environment & Editors:
@@ -84,17 +79,32 @@ I like to understand complex things, dive headlong into code and complex logic, 
   <img alt="VS Code" height="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-## 🔥 GitHub Streaks & Highlights
-  
-![monok8i's GitHub stats](https://github-readme-stats.vercel.app/api?username=monok8i&show_icons=true&theme=transparent&rank_icon=github&layout=compact&border_color=b4befe)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=monok8i&theme=transparent)](https://git.io/streak-stats) -->
+## Personal Skills
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monok8i&layout=compact&theme=transparent&size_weight=0&count_weight=1)](https://github.com/monok8i/github-readme-stats) -->
+- Analytical mindset
+- Strong focus on backend systems
+- Comfortable with complex logic
+- Fast learner
+- Self-educating consistently
+- Interested in SaaS and scalable products
+- Not afraid of large projects
+
+### Current Goals
+
+- Build production-ready SaaS projects
+- Improve system design skills
+- Move deeper into distributed systems
+- Grow as a professional backend engineer
+
+> I’m open to collaboration, interesting backend projects and serious growth.
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-> Feel free to visit me on GitHub to check out my projects and leave your feedback. Thanks for stopping by! 😊
