@@ -44,7 +44,6 @@ I like to understand complex things, dive headlong into code and complex logic, 
 <div align="left">
   <img alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/>
   <img alt="Rust" height="50px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/>
-  <img alt="C++" height="50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"/>
 </div>
 
 ### ⇒ Databases & Caches:
