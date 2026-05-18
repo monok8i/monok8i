@@ -85,7 +85,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
   <img alt="Nginx" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"/>
   <img alt="Bash" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/>
   <img alt="GitHub Copilot" height="50px" style="padding-right:5px;" src="https://github.githubassets.com/images/modules/site/copilot/copilot.png"/>
-  <img alt="Claude" height="50px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Anthropic_logo.svg"/>
+  <img alt="Claude" height="50px" style="padding-right:5px;" src="https://static.freepnglogo.com/images/all_img/claude-ai-logo-d862.png"/>
 </div>
 
 ### ⇒ Environment & Editors:
