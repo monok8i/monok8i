@@ -9,6 +9,8 @@
 I'm a young developer from Ukraine who is always looking for opportunities to grow. Design has never been my thing, but in the world of code I'm like an artist with a brush, but instead of paints - syntax and logic.
 I like to understand complex things, dive headlong into code and complex logic, experiment with new technologies and create something of my own.
 
+> Check my [CV](https://github.com/monok8i/monok8i/blob/main/CV%20-%20Yurii%20Didkivskyi%20-%2026.05.2026.pdf)
+
 ---
 
 ## 📨 Contact me
