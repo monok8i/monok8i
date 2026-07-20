@@ -4,39 +4,10 @@
 ---
 -->
 
-# 🐍 Yurii
+# Yurii
 
 I'm a young developer from Ukraine who is always looking for opportunities to grow. Design has never been my thing, but in the world of code I'm like an artist with a brush, but instead of paints - syntax and logic.
 I like to understand complex things, dive headlong into code and complex logic, experiment with new technologies and create something of my own.
-
-> Check my [CV](https://github.com/monok8i/monok8i/blob/main/CV%20-%20Yurii%20Didkivskyi%20-%2026.05.2026.pdf)
-
----
-
-## 📨 Contact me
-
-<div align="left">
-  <a href="https://www.github.com/monok8i" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="32px"/>
-    </picture>
-  </a>
-  <a href="https://www.gitlab.com/monok8i" target="_blank">
-    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="32px"/>
-    </picture>
-  </a>
-  <a href="http://www.instagram.com/monok8i" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="32px" style="padding-right:10px;" />
-    </picture>
-  </a>
-</div>
 
 ---
 
@@ -45,7 +16,7 @@ I like to understand complex things, dive headlong into code and complex logic, 
 ### ⇒ Programming Languages:
 <div align="left">
   <img alt="Python" height="50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/>
-  <img alt="Rust" height="50px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg"/>
+  <img alt="Golang" height="50px" src="https://www.svgrepo.com/show/353795/go.svg"/>
 </div>
 
 ### ⇒ Databases & Caches:
@@ -87,7 +58,6 @@ I like to understand complex things, dive headlong into code and complex logic, 
   <img alt="Nginx" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"/>
   <img alt="Bash" height="50px" style="padding-right:5px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"/>
   <img alt="GitHub Copilot" height="50px" style="padding-right:5px;" src="https://github.githubassets.com/images/modules/site/copilot/copilot.png"/>
-  <img alt="Claude" height="50px" style="padding-right:5px;" src="https://static.freepnglogo.com/images/all_img/claude-ai-logo-d862.png"/>
 </div>
 
 ### ⇒ Environment & Editors:
